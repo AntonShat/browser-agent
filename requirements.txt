@@ -1,0 +1,3 @@
+browser-use
+langchain_openai
+playwright
